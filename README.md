@@ -11,7 +11,7 @@ Basic goals:
 
 Basic Stretch goals:
 
-1. Validation on the how the sum of money is being entered in ie £100.00 rather than 100
+1. Validation on the how the sum of money is being entered in ie 100.00 rather than 100
 2. Abstraction of the API so the logic isn't all sitting in main
 3. Some helpers func 
 
