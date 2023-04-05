@@ -17,6 +17,8 @@ func main() {
 
 	fmt.Println("server is running")
 
+	// need to connect to db
+
 	// GET
 	r.HandleFunc("/account", handlers.GetTotalFunds).Methods("GET")
 	// POST
